@@ -7,8 +7,10 @@ The management at HDFC Bank has no means of comparing their performance in the d
 Build a dashboard to show how well HDFC performed as compared to other top banks in the Indian banking sector.
 
 ## Data Scraping
+`Notebook: RBI_ATM_XLSX_Automation.ipynb` contains code used to scrape data from rbi.com and store it inside an excel file.
 
 ## Preparing data
+`Notebook: Excel_Automation_HDFC.ipynb` contains code used to prepare data for data analysis.
 
 ## Dashboard
 For best experience, open on desktop or laptop.
